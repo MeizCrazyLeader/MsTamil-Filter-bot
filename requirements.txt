@@ -1,6 +1,6 @@
 ##MS-TAMIL-BOTZ
 git+https://github.com/Joelkb/cinemagoer
-pyrogram>=2.0.30
+pyrogram==2.0.106
 tgcrypto
 pymongo[srv]==3.12.3
 motor==2.5.1
